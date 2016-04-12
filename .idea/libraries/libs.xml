@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/tomcat-apr-5.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AppWarpApacheMina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ognl-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AppWarpS2-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-org.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-3.2.0.M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AppWarpS2-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jzlib-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1663 @@
+/*C3*/SET SCHEMA PUBLIC
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+INSERT INTO METERING VALUES('64ff0e07-8164-4e51-8',794,0,'dummy')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+INSERT INTO METERING VALUES('64ff0e07-8164-4e51-8',0,0,'dummy')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+INSERT INTO METERING VALUES('64ff0e07-8164-4e51-8',0,0,'dummy')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1714520201'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1714520201',6,'test1','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='35255450'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','35255450',6,'Test','{"MaxStack":1000,"RoomType":"A","MinStack":20,"RoomInterval":"NORMAL","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
+DELETE FROM ROOM WHERE APPKEY='64ff0e07-8164-4e51-8' AND ID='1968806197'
+INSERT INTO ROOM VALUES('64ff0e07-8164-4e51-8','1968806197',6,'test2','{"MaxStack":1000,"MinStack":20,"RoomType":"A","RoomInterval":"EXPERT","RoomCallAmount":1,"RoomDefaultAmount":100}')
+COMMIT
