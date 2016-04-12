@@ -1,0 +1,10 @@
+{
+	"TickTime" : 1000,
+	"ListenPort" : 12346,
+	"MasterHost" : 192.168.1.104,
+	"LogLevel" : "INFO",
+	"FlashPolicyPort" : 8430,
+	"AdminUsername" : "admin",
+	"AdminPassword" : "password",
+	"HSQLDBFile" : "HSQLDBFile"
+}
